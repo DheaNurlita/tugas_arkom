@@ -1,0 +1,7 @@
+{
+  "modules": [
+    "auth/login",
+    "client/client_main_navigation",
+    "admin/admin_main_navigation"
+  ]
+}

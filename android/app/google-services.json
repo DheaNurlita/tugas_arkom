@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938465830642",
+    "project_id": "mambo-website-117d4",
+    "storage_bucket": "mambo-website-117d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938465830642:android:4e16f29ce39619516b526b",
+        "android_client_info": {
+          "package_name": "com.example.tugas_arkom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOjeeC0620FKhWZyKr5jEMIZoHzJrEEgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
